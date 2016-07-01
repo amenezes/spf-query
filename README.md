@@ -3,6 +3,7 @@
 [![Code Climate](https://codeclimate.com/github/trailofbits/spf-query/badges/gpa.svg)](https://codeclimate.com/github/trailofbits/spf-query)
 [![Test Coverage](https://codeclimate.com/github/trailofbits/spf-query/badges/coverage.svg)](https://codeclimate.com/github/trailofbits/spf-query)
 [![Build Status](https://travis-ci.org/trailofbits/spf-query.svg)](https://travis-ci.org/trailofbits/spf-query)
+[![Dependency Status](https://gemnasium.com/badges/github.com/amenezes/spf-query.svg)](https://gemnasium.com/github.com/amenezes/spf-query)
 
 The `spf-query` library searches the [SPF] records for a host. We assume the
 host uses standard spf 'selectors', and also check if they use their own
